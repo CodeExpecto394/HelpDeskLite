@@ -15,6 +15,5 @@ A simple Java console-based helpdesk application to raise and manage support tic
 - Collections (ArrayList)
 - File Handling
 
-## Future Improvements
-- Add Spring Boot backend
-- Build Angular frontend UI
+
+
